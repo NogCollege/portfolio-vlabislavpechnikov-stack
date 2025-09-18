@@ -47,10 +47,10 @@
 
 ## 📞 Контакты
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **VK**: [vk.com/your_profile](https://vk.com/your_profile)
-- **Телеграм**: [@yournickname](https://t.me/yournickname)
-- **GitHub**: [github.com/yourname](https://github.com/yourname)
+- **Email**: [Vlabislavpechnikov@gmail.com](mailto:your.email@example.com)
+- **VK**: [vk.com/shifty](https://vk.com/your_profile)
+- **Телеграм**: [@shifty](https://t.me/yournickname)
+- **GitHub**: [github.com/vlabislavpechnikov-stack](https://github.com/yourname)
 
 ---
 
